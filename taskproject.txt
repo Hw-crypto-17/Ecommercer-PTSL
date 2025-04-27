@@ -1,0 +1,3 @@
+1. Remove Image Api instead use url/base64
+2. Complete Remaining tables
+3. Learn GIT
