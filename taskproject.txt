@@ -1,3 +1,3 @@
 1. Remove Image Api instead use url/base64
 2. Complete Remaining tables
-3. Learn GIT
+3. Learn GIT = https://www.youtube.com/watch?v=8JJ101D3knE
